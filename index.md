@@ -5,11 +5,11 @@ title: Home
 
 <div class="hero">
 
-# 👋 Hi, I'm Mark Rellama
+## 👋 Hi, I'm Mark Rellama
 
 ## IT Infrastructure & Automation Engineer
 
-I build automation solutions that reduce repetitive IT work and improve operational efficiency using PowerShell, n8n, Microsoft 365, Windows Server, and virtualization technologies.
+I build automation solutions that reduce repetitive IT work and improve operational efficiency using n8n, PowerShell, Microsoft 365, Windows Server, and virtualization technologies.
 
 <div class="skills">
 
@@ -27,21 +27,24 @@ PowerShell • n8n • Microsoft 365 • Windows Server • Hyper-V • GitHub A
 
 ## Featured Projects
 
-These are some of the automation solutions I'm currently building.
+These are some of the automation solutions I've built and currently building.
 
 | Project | Status |
 |---------|--------|
-| Active Directory User Provisioning | 🚧 In Progress |
-| Hyper-V Health Monitoring | 🚧 In Progress |
-| Microsoft 365 Automation | 📋 Planned |
-| Social Media Automation (n8n) | ✅ Completed |
+| Active Directory User Provisioning | In Progress |
+| Hyper-V Health Monitoring | In Progress |
+| Microsoft 365 Automation | Planned |
+| Sync user from Immybot to Connectwise PSA (n8n) | Completed |
+| Microsoft 365 License Audit and Report (n8n) | Completed |
+| Automated user approval from Quoter to Alternative Payments (n8n) | Completed |
+| User offboarding (n8n) | Completed |
 
 ---
 
 ## What you'll find here
 
-- 🤖 Automation workflows
-- 💻 PowerShell scripts
-- 🏗 Infrastructure projects
-- 📚 Technical write-ups
-- 🎥 Demonstration videos
+- Automation workflows
+- PowerShell scripts
+- Infrastructure projects
+- Technical write-ups
+- Demonstration videos
