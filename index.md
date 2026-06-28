@@ -3,20 +3,45 @@ layout: home
 title: Home
 ---
 
-# 👋 Hi, I'm Mark
+<div class="hero">
 
-Welcome to **Autom8wmark**.
+# 👋 Hi, I'm Mark Rellama
 
-I'm an IT professional with 11 years of experience passionate about automating repetitive IT tasks using PowerShell, n8n, and Microsoft technologies.
+## IT Infrastructure & Automation Engineer
 
-## What you'll find here
+I build automation solutions that reduce repetitive IT work and improve operational efficiency using PowerShell, n8n, Microsoft 365, Windows Server, and virtualization technologies.
 
-- 🤖 Automation projects
-- 💻 PowerShell scripts
-- 🏗 Infrastructure automation
-- 📚 Technical write-ups
-- 🎥 Workflow demonstrations
+<div class="skills">
+
+PowerShell • n8n • Microsoft 365 • Windows Server • Hyper-V • GitHub Actions
+
+</div>
+
+<p style="margin-top:2rem;">
+<a class="button" href="/projects/">🚀 View My Projects</a>
+</p>
+
+</div>
+
+---
 
 ## Featured Projects
 
-Coming soon...
+These are some of the automation solutions I'm currently building.
+
+| Project | Status |
+|---------|--------|
+| Active Directory User Provisioning | 🚧 In Progress |
+| Hyper-V Health Monitoring | 🚧 In Progress |
+| Microsoft 365 Automation | 📋 Planned |
+| Social Media Automation (n8n) | ✅ Completed |
+
+---
+
+## What you'll find here
+
+- 🤖 Automation workflows
+- 💻 PowerShell scripts
+- 🏗 Infrastructure projects
+- 📚 Technical write-ups
+- 🎥 Demonstration videos
