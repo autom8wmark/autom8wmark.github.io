@@ -7,20 +7,16 @@ title: Home
 
 Welcome to **Autom8wmark**.
 
-I'm an IT professional specializing in automation using:
+I'm an IT professional with 11 years of experience passionate about automating repetitive IT tasks using PowerShell, n8n, and Microsoft technologies.
 
-- PowerShell
-- n8n
-- Windows Server
-- Hyper-V
-- Microsoft 365
+## What you'll find here
+
+- 🤖 Automation projects
+- 💻 PowerShell scripts
+- 🏗 Infrastructure automation
+- 📚 Technical write-ups
+- 🎥 Workflow demonstrations
 
 ## Featured Projects
 
-🚀 Active Directory User Provisioning
-
-🚀 Microsoft 365 Automation
-
-🚀 Hyper-V Monitoring
-
-🚀 Social Media Automation
+Coming soon...
