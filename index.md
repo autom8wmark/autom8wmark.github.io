@@ -5,7 +5,7 @@ title: Home
 
 # 👋 Hi, I'm Mark
 
-Welcome to **Autom8 with Mark**.
+Welcome to **Autom8wmark**.
 
 I'm an IT professional specializing in automation using:
 
