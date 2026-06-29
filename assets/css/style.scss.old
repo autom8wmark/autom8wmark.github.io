@@ -1,0 +1,85 @@
+---
+---
+
+@import "minima";
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 5rem 1rem;
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.hero h2 {
+  font-weight: normal;
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.hero p {
+  max-width: 700px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+.skills {
+  margin-top: 2rem;
+  font-weight: bold;
+}
+.button {
+  display: inline-block;
+  background: #0366d6;
+  color: white !important;
+  padding: 12px 24px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.button:hover {
+  background: #024c9a;
+}
+/* Featured Projects */
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: #fff;
+  box-shadow: 0 2px 6px rgba(0,0,0,.08);
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0,0,0,.15);
+}
+
+.project-card h3 {
+  margin-top: 0;
+}
+
+.project-status {
+  display: inline-block;
+  margin-top: .75rem;
+  font-size: .9rem;
+  font-weight: bold;
+}
+
+.read-more {
+  display: inline-block;
+  margin-top: 1rem;
+  text-decoration: none;
+  font-weight: bold;
+}
